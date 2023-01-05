@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\28.02\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.pdb

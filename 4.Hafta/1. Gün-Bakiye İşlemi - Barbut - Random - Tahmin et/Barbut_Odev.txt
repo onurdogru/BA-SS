@@ -1,0 +1,9 @@
+uygulama çalıştırıldığında btnZarAt1 ve btnZarAt2 pasif olarak gelecek.
+oyunculardan oyunun başlangıcı için ortaya belirli miktarlarda puan yatırılması istenecek. bu işlem için aşağıda bulunan groupboxları kullanabilirsiniz.
+
+groupbox1 içerisinde bulunan 500 1. oyuncunun toplam puanını temsil etmektedir. oyuncu bu puan dahilinde katıl isimli label'ın yanında bulunan numeric up down tool'unu kullanarak ortaya bir puan yatırması gerekmektedir. Ardından aynı işlemi 2. oyuncu gerçekleştirmelidir. ortaya her iki oyuncu puan yatırdıktan sonra btnZarAt1 aktif aynı zamanda ortada bulunan ve puanı temsil eder lblPuan içerisinde toplam puan gösterilecek.
+
+1. oyuncu zar atacak ardından button pasif olacak,
+2. oyuncu zar atacak ardından button pasif olacak 
+lbl sonuc içerisine kazanan yazılacak. 
+kazananın bakiyesine ortada bulunan puan dahil edilecek.

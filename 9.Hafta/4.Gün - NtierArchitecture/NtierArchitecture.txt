@@ -1,0 +1,14 @@
+--Ntier Katmanlý Mimari
+
+Ntier ktmanlý mimari standartlarýnda 3 adet aktman oluþturulmasý gerekmektedir. Bu katmanlar;
+	-DataAccess => veriye olaþým katmaný
+	-BusinessLogicLayer=> Ýþ katmaný
+	-Presentetion Layer (UI)=> Sunum katmaný
+
+--Ýlk etapta boþ (blank) solution oluþturulduktan sonra içerisine Class Library(iNet Framework) eklenerek ismini DataAccess olarak belirliyoruz. Ardýndan projede NorthWind veritabanýný kullanacaðýmýz için DbFirst yaklaþýmý ile yansýmasýný DataAcces katmanýna dahil ediyoruz.
+
+--Class Library(iNet Framework) eklenerek ismini BusinessLogicLayer olarak tanýmlýyoruz.Bu katmanýn esas görevi dataaccess de bulunan modelle ilgili iþlemlerin tutulacaðý ve yeri geldiðinde bu iþlemlerin devreye alýnacaðý katmandýr.Yani CRUD olarak adlandýrýlan iþlemlerin tek bir çatý altýnda toplamasý.
+
+--Referanslarýn tanýmlanmasý; Dataaccess içerisinde bulunan NorthwindEntities nesnesinin BLL'de çaðrýlmasý için BLL katmaný kesinlikle Dataccess katmanýndan referans almalýdýr. Bu yüzden projede bulunan referans dosyasýna sað týkaldýktan sonra Dataaccess katmanýnýn referanslara eklememiz gerekmektedir.
+
+--UI katmaný için WinUI isminde Windows Form Application oluþturuldu. Bu katmanýn görevi BLL ile haberleþip kullanýcýdan alýnan bilgileri bi takým iþlemlerin ardýndan veritabanýna iletilmesini saðlamaktýr. Bu katman hem bll hem de dataaccess ile haberleþmesi gerekmektedir. DataAccess ile haberleþmesinin en büyük sebebi; DbFirst ile birlikte almýþ olduðumuz yansýmanýn (ConnectionString'in ) DataAccess içerisinde yerlaan AppConfig.cs'de yeralmasýndan kaynaklýdýr. Çünkü WinUI doðrudan ulaþamayacaðý için DataAccess'de bulunan connectionstring düðümü ayný zamanda WinUI içerisinde bulunan appconfig.cs'de de yeralmasý gerekmektedir.

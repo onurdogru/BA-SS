@@ -1,0 +1,12 @@
+MovieTheaterDB
+ --içerisine her bir tabloya 5 adet veri ekleyin.
+ -- veri silme
+ -- veri güncelleme
+
+--eklediğiniz kodları query olarak kaydet ve discordda paylaş.
+
+-- 5 adet where sorgusu
+-- 5 adet like sorgusu
+-- 5 adet aggregate
+-- 3 adet group by
+-- 3 adet order by

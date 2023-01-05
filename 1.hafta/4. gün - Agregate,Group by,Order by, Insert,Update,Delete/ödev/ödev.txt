@@ -1,0 +1,10 @@
+MovieTheaterDB
+	--Her bir tabloya 5'er adet veri eklesin.
+	--veri güncelleme
+	--veri silme
+
+-- 5 adet where sorgusu
+-- 5 adet like sorgusu
+-- 5 adet aggregate
+-- 3 adet group by
+-- 3 adet order by

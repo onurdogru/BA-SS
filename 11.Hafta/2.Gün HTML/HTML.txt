@@ -1,0 +1,18 @@
+HTML (Hyper Text Markup Language)
+web sayfalarını oluşturmak için kullanılan işaretleme dilidir.
+html programlama dili değildir.
+
+	-web sitelerinin hepsi tarafından kullanılır.
+	-HTML dosyalarını çalıştırmak için tek gerekli olan bir tarayıcıdır.
+
+HTML ile neler yapılabilir
+	--Static web sayfaları (bir kez tasarlanıp bırakılan siteler) => WEB1
+	--Metin biçimlendirme işlemleri(Renk,Font,Boyut vs.)
+	--Resim video ses dosyaları kullanımları
+	--Tablo alan çerçeve işlemleri
+	--Form taslakları
+
+W3C(World Wide Web Consortium) Standartları
+SEO
+W3C Validator (standartlara ne kadar uygun olup olamdığının kontrolü)
+W3Schools öğretici site

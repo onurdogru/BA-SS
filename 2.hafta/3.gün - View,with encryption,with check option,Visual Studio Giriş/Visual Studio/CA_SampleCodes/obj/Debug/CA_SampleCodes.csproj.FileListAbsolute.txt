@@ -1,0 +1,7 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\bin\Debug\CA_SampleCodes.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\bin\Debug\CA_SampleCodes.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\bin\Debug\CA_SampleCodes.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\obj\Debug\CA_SampleCodes.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\obj\Debug\CA_SampleCodes.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\obj\Debug\CA_SampleCodes.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\23.02\CA_SampleCodes\CA_SampleCodes\obj\Debug\CA_SampleCodes.pdb

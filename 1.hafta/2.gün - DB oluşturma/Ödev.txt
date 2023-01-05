@@ -1,0 +1,14 @@
+Hepsi Şurada
+
+Ürünler ad fiyat 
+Kategoriler açıklaması ve adı 
+Tedarikçiler şirket ismi
+Satış
+	--Sipariş No
+	--Sipariş Tarihi
+	--Kargo Firması
+	--Ürün
+	--Adet
+Nakliyeciler (Kargo) cargono şube
+----------------------
+her birine en az 3 adet veri girişi yapın.

@@ -1,0 +1,13 @@
+--OOP avantajları
+Resusability   (Tekrar kullanılabilirlik)
+extensibility  (Gebişletilebilirlik)
+Sustainability (Sürdürülebilirlik)
+
+--OOP prensipleri
+
+-Encapsulaion (Kapsülleme)
+-İnheritance (Kalıtım/miras)
+-Polymorphism (Çok biçimlilik)
+-Abstraction (Soyutlama)
+
+interface => sözleşme gibi düşünebiliriz. Belli başlı koşullar ile nesneleri oluşturacağız.

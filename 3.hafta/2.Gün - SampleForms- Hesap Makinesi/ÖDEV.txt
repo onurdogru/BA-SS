@@ -1,0 +1,8 @@
+//Labirent Ödev
+
+Toplam isimli label'ın olduğu kısımda bir adet textbox kullanın. 
+Kullanıcı bu textbox'ı doldurup altında tanımlamış olduğunuz butonu (Başlat) tıkladıktan sonra ilgili textbox ve button görünmez olacak. 
+textbox'ın altında label içerisinde kullanıcının girmiş olduğu isim yer alacak. bu işlem yapılmadan labirent göstetilmeyecek. 
+İşlem onaylandıktan (Başlat butonuna tıklandıktan) sonra labirent görünür olacak.
+
+her butonun değeri (puanı) globalde tanımlamış olduğunuz değişken içerisinde toplanıp toplam sonuca aktarılacak.

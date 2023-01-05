@@ -1,0 +1,26 @@
+- kullanıcıdan alınan 2 sayının toplamını hesaplayan algoritmayı yazın.
+-Başla
+-Sayı 1 değerini gir
+-Sayı 2 değerini gir
+-işlem yap (Değerleri topla)
+-2 sayıyı topla toplam=1.sayı+2.sayı
+-Sonucu 'toplam' yaz
+-bitir
+
+--Odadaki ışık seviyesine göre ışığın açık veya kapalı olmasına karar veren algoritma
+
+- başla 
+  -oda karanlık mı?
+  -evet ise, ışığı aç
+  -Hayır ise , ışığı kapat
+-bitir
+
+-- Ekrana 10 kere 'merhaba dünya' yazısını yazdıran algoritma.
+
+-Başla
+ -sayaç değeri belirle
+ -sayacı kontrol et
+   -Şart sağlanıyorsa
+      -Ekrana merhaba dünya yaz
+      -sayacı arttır
+-Bitir

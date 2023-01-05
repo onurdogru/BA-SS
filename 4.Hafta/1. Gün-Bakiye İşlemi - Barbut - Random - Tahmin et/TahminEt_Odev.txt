@@ -1,0 +1,12 @@
+uygulama çalıştırıldığında arkaplan 1-10 arasında rastgele bir sayı tutulacak.
+kullanıcı textbox'a bir değer girecek.
+girilen değer tutulan sayıdan küçük ise label'da "lütfen daha büyük bir sayı giriniz" yazacak.
+seviye 1 kez azaltılacak.
+her yanlış tahminde yukarıdaki işlem uygulanacak.
+girilen değer tutulan sayıdan büyük ise "lütfen daha küçük bir sayı giriniz" yazaca.
+yukarıkidaki işlemler gerçekleştirilecek.
+girilen sayı tutulan sayıya eşit ise "tebrikler doğru tahmin" yazacak. tahmin hakkı 5 olarak güncellenecek. 
+seviye 1 kez artacak.
+seviye 2 ise tutulacak olan rastgele 1-20 arasında olacak.
+seviye her arttığında arkaplanda tutulacak sayı 10'un katlarında artacak (20-30-40-50) ....
+gerçekleştirilen her tahmin listbox içerisine yazılacak.

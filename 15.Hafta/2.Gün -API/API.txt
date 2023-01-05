@@ -1,0 +1,10 @@
+SOA (Service Oriented Architecture) => farklı servislerin gruplandırılarak birbiri içerisinde iletişimin sağlanması
+
+WEB Service =>
+	--XML
+
+API (Application Programming Interface)
+	--Rest API =XML, Text ,JSON (javascript object notation)
+	--Resftfull API = GET,POST,PUT,DELETE
+
+

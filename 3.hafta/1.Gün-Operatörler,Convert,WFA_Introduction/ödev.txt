@@ -1,0 +1,5 @@
+--uygulama başlatıldığında kırmızı alanlara mouse ile giriş yapılırsa "kaybettiniz", mavi alana giriş yapılırsa "kazandınız" mesajını mesaj kutusunda gösterin.
+--labirent içerisinde bulunan butonlardan herhangi birinin üzerine mouse ile gelindiğinde üzerine gelinen buton kaybolsun (gizlensin)
+--sarı renkte olan butonların her biri 2 puan değerinde gri renkte olan buton 10 puan değerinde olacak.
+--her butonun üzerine geldiğinde o butona ait puan sağ tarafta bulunan "Toplam Puan" isimli label de yazdırılacak.
+--kullanıcı Finish kutusuna mouse ile geldiğinde bütün butonlar gizlenecek.

@@ -1,0 +1,8 @@
+sonsuz kategori nasıl oluşturulabilir.
+
+kategori	altkategori
+-giyim		-gömlek
+-gömlek		-yazlık
+-yazlık		-slim fit.
+-slim fit	-uzun kol
+

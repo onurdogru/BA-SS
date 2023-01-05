@@ -1,0 +1,53 @@
+patates kızartması - algoritma
+
+-başla
+-mutfağa git
+-patates dolabından 5 adet patates al
+-Bıçaklıktan 1 tane bıçak al meyve bıçağı olmasın
+-patateslerin kabuklarını soy
+-Patatesleri elma dilimi yap
+-tezgaha bırak
+-1. dolaptan büyük Tavayı al
+-Tezgahın üstündeki yağı al
+-Tavaya 3'te 1'i dolacak kadar yağ koy
+-Tavayı ve yağı tezgaha koy
+-1.Ocağı yak
+-Tavayı ısıt ve yağın kızarmasını 1 dk bekle
+-eğer yağ kızarmışsa Dilimli patatesleri tavaya koy
+-patateslerin kızarmasını 5 dk bekle
+-eğer patatesler kızarmışsa patatesleri tabağa koy
+-Bitir
+---------------------------------------------------------------------------
+herkes sabah evden çıkıp bilge adama nasıl geldiğini algoritmik olarak yazsın.
+
+--Başla
+	--Çıkış kapısına git
+	--kapıyı aç
+	--gri renkli spor ayakkabılarını giy
+	--kapıyı kapat
+	--merdivenlerden aşağı in 
+	--apartman kapısını aç ve dışarı çık
+	--apartman kapısını kapat
+	--otobüs durağına yürü
+	--401T numaralı otobüsü bekle
+		--Geldiyse otobüse bin
+	--Cebinden akbili al ve validatöre okut
+	--Boş bir koltuğa otur
+		--Yoksa ayakta bekle
+	--Cumhuriyet durağına gelene kadar bekle
+	--Cumhuriyet durağına gelince stop düğmesine bas
+	--Otobüs durunca aşağı in
+	--Metrobüs durağına yürü
+	--Metrobüs gişesine gelince validatöre akbilini okut
+	--Metrobüs bekleme alanına geç
+	--Söğütlüçeşme yazılı metrobüsü bekle
+		--Geldiyse metrobüse bin
+	--Boş koltuk varsa otur
+		--Yoksa ayakta bekle
+	--Son durağa gelene kadar bekle
+		--Geldiyse metrobüsten in
+	--Bilge Adam'a kadar yürü
+		--Geldiysen içeri gir
+--Bitir
+
+
